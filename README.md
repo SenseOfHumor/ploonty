@@ -28,7 +28,7 @@ Ploonty is an autonomous plant health system that senses and responds:
 
 ## 🛠 How We Built It
 
-![Melted Sensor](./IMG_2322.HEIC)
+![Melted Sensor](./melted.jpeg)
 
 
 ### Hardware
