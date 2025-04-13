@@ -120,16 +120,6 @@ It acts.
 
 ---
 
-## 📸 Demo Images
-
-<!-- 
-Add images like:
-![System Setup](images/setup.jpg)
-![OLED Face](images/oled-face.jpg)
-![Pump in Action](images/pump-action.jpg)
- -->
-
----
 
 ## 🧠 Authors & Contributors
 
