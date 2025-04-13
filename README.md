@@ -1,6 +1,7 @@
 # 🌱 Ploonty – The Smart Plant That Doesn’t Just Alert—It Acts
 
 > _“We didn’t forget the plant. We just weren’t there when it needed us.”_
+> ![Melted Sensor](./ploonty.jpeg)
 
 ---
 
