@@ -28,7 +28,8 @@ Ploonty is an autonomous plant health system that senses and responds:
 
 ## 🛠 How We Built It
 
-<!-- Insert wiring/pump setup image here -->
+![Melted Sensor](./IMG_2322.HEIC)
+
 
 ### Hardware
 - **ESP32**: main controller
@@ -132,9 +133,10 @@ Add images like:
 
 ## 🧠 Authors & Contributors
 
-- [Your Name](#) – Hardware, firmware, storytelling  
-- [Your Teammate](#) – Wiring wizard, debugging hero  
-- Inspired by every thirsty plant we’ve unintentionally neglected.
+- Amal Alhaj
+- Shrish
+- Swapnil Deb
+- Yasmeen Shalabi
 
 ---
 
